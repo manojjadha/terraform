@@ -22,7 +22,3 @@ jobs:
 
       - name: Apply Terraform
         run: terraform apply -auto-approve
-
-
-
-
